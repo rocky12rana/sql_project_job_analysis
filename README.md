@@ -85,7 +85,7 @@ SELECT job_id,
 ![Top_Paying_Roles](https://github.com/rocky12rana/sql_project_job_analysis/blob/main/assets/top_paying_data_roles.png?raw=true)
 
 
- Key Insights:
+ ## Key Insights:
 Senior roles like Director and Principal Data Analyst dominate high salaries
 
 There is a clear trend:
@@ -124,7 +124,7 @@ INNER JOIN skills_job_dim ON top_paying_data_analyst_jobs.job_id = skills_job_di
 INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
 ORDER BY salary_year_avg DESC;
 ```
-![skills_count_jobs](assets\skills_count_jobs.png)
+![skills_count_jobs](https://github.com/rocky12rana/sql_project_job_analysis/blob/main/assets/skills_count_jobs.png?raw=true)
 
 ## Key Insights:
 High-paying roles demand strong programming skills (SQL, Python)
