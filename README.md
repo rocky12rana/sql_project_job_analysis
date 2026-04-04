@@ -221,7 +221,7 @@ LIMIT 25;
 ---
 
 
-![Top_skills_by_salary](assets\top_skills_by_salary.png)
+![Top_skills_by_salary](https://github.com/rocky12rana/sql_project_job_analysis/blob/main/assets/top_skills_by_salary.png?raw=true)
 
 
 
