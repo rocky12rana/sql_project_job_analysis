@@ -316,7 +316,7 @@ LIMIT 25;
 
 
 
-![Optimal_skills](assets\optimal_skills.png)
+![Optimal_skills](https://github.com/rocky12rana/sql_project_job_analysis/blob/main/assets/optimal_skills.png?raw=true)
 
 
 
