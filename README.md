@@ -82,7 +82,7 @@ SELECT job_id,
 ```
 
 
-![Top_Paying_Roles](assets\top_paying_data_roles.png)
+![Top_Paying_Roles](https://github.com/rocky12rana/sql_project_job_analysis/blob/main/assets/top_paying_data_roles.png?raw=true)
 
 
  Key Insights:
