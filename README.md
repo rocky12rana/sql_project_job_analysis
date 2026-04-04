@@ -158,7 +158,7 @@ ORDER BY demanded_skills DESC
 LIMIT 5;
 
 ```
-![Top_five_skills](assets\demanded_skills.png)
+![Top_five_skills](https://github.com/rocky12rana/sql_project_job_analysis/blob/main/assets/demanded_skills.png?raw=true)
 
 ## Key Insights:
 Python and SQL are the most consistently demanded skills
