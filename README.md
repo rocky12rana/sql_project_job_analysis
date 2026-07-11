@@ -21,7 +21,7 @@ There is often a gap between what students learn and what companies actually exp
 
 Overall, this background sets the foundation for understanding how the role of a data analyst is evolving and why it is important to align learning with current industry trends.
 Check some of my exploratins
-here:[Advanced_sql folder](/sql_project_job_analysis/Advanced_sql/)
+here:[Advanced_sql folder](Advanced_sql)
 ### Questions I solved through this project
 
 1. what are the top paying data analytics jobs?
@@ -41,6 +41,7 @@ For this project, I used a combination of tools and technologies to efficiently 
 The primary tool used for data analysis was **SQL**, which helped in querying, filtering, and extracting meaningful insights from the dataset. To run and manage these SQL queries, I used **PostgreSQL** as the database server, as it is a powerful and reliable system for handling structured data.
 
 For writing and executing the queries, I used **Visual Studio Code (VS Code)** as the development environment. It provided a simple and organized platform to manage scripts and work efficiently.
+I used Microsoft Excel Charts to visualize the result insights
 
 Additionally, I used **GitHub** to store and manage the project files. It helped in maintaining version control and keeping the project organized, making it easier to track changes and access the work anytime.
 
