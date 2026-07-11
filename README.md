@@ -359,10 +359,8 @@ Another important learning was the use of Excel for data visualization. Creating
 Additionally, this project helped me understand the difference between high-paying skills and high-demand skills. I learned that while some specialized skills offer higher salaries, core skills like Python, SQL, and data visualization tools are essential because of their high demand.
 
 Overall, this project improved my technical skills, analytical thinking, and ability to present data in a structured and meaningful way. It also gave me a clear idea of which skills I should focus on to build a successful career in data analytics.
-
-
-
-
+## Here is the Job Market Analysis Dashboard
+![Job Market Analysis Dashboard](https://github.com/rocky12rana/sql_project_job_analysis/blob/main/assets/Job_Market_Analysis.png)
 
 # Conclusions
 
